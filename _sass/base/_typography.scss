@@ -76,9 +76,17 @@ code {
   padding: 0.2em 0.4em;
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
-  color: $code-text-color;
+  color: #8565fc;
   background-color: $code-bg-color;
   border-radius: 3px;
+}
+
+blockquote {
+  border-left: 0.25rem solid #d8e0e7;
+  margin: 0.8rem 0 1rem 0;
+  padding: 0 0 0 1.25rem;
+  color: #90949a;
+  line-height: 1.7rem;
 }
 
 pre {

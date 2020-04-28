@@ -8,6 +8,7 @@ h1 {
 .dark-bg {
   background-color: #313237;
 }
+
 @media only screen and (min-width: 48em) {
   .post-card {
     width: 48.4375%;

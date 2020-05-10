@@ -25,15 +25,15 @@ layout: compress
   <div class="hero dark-bg">
   {% endif %}
     <div class="hero__wrap">
-      {% if post.categories or page.categories %}
+      {% if post.tags or page.tags %}
         <div class="hero__categories">
           {% if post %}
-            {% assign categories = post.categories %}
+            {% assign tags = post.tags %}
           {% else %}
-            {% assign categories = page.categories %}
+            {% assign tags = page.tags %}
           {% endif %}
-          {% for category in categories %}
-            <a class="label" href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+          {% for tag in tags %}
+            <a class="label" href="{{site.url}}/tags/#{{tag|slugize}}">{{tag}}</a>
             {% unless forloop.last %}&nbsp;{% endunless %}
           {% endfor %}
         </div>

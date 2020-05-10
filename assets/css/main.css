@@ -420,9 +420,7 @@ img {
   height: auto;
   width: auto;
   display: block;
-  margin: auto;
-  margin-top: 1.3rem;
-  margin-bottom: 1.3rem; }
+  margin: auto; }
 
 img::selection {
   background: transparent; }
@@ -1363,6 +1361,12 @@ table {
   background-size: 2px 1px, 2px 1px, 1px 1px;
   background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#8565fc, #8565fc);
   color: #7e61e8; }
+
+.post-content img {
+  display: block;
+  margin: auto;
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem; }
 
 .comments {
   padding: 50px 0;

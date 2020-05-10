@@ -419,7 +419,10 @@ img {
   max-width: 100%;
   height: auto;
   width: auto;
-  vertical-align: middle; }
+  display: block;
+  margin: auto;
+  margin-top: 1.3rem;
+  margin-bottom: 1.3rem; }
 
 img::selection {
   background: transparent; }

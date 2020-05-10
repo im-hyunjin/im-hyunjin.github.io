@@ -3,8 +3,6 @@ layout: post
 title: Sleek을 시작해봅시다!
 featured-img: sleek
 mathjax: true
-categories: [Blog]
-tags: [Daily, Contest]
 ---
 
 # Getting started

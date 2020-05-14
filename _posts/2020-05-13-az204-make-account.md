@@ -88,7 +88,7 @@ Microsoft Certified: Azure DevOps Engineer Expert' 전문가 인증을 받을 �
 내용 입력을 완료한 뒤, [검토+만들기]를 클릭합니다.
 
 ![](./../assets/img/posts/2020-05-14-11-06-50.png)
-![](./../assets/img/posts/2020-05-14-11-08-04.png)
+![](./../assets/img/posts/2020-05-14-18-27-25.png)
 이후 [만들기]를 클릭하면 스토리지 계정 생성이 완료됩니다. 스토리지 외 가상머신 등 새로운 리소스를 추가할 수 있습니다.
 
 

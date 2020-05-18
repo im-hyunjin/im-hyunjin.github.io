@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AZ-204 시험준비를 위하여 Azure 계정 및 리소스 만들기
-featured-img: microsoft
+featured-img: microsoftLogo
 mathjax: true
 categories: [Devlog]
 tags: [Azure, AZ-204, Cloud]
